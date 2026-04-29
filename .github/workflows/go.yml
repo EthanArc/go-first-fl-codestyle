@@ -1,3 +1,24 @@
+Skip to content
+EthanArc
+go-first-fl-codestyle
+Repository navigation
+Code
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Important update
+On April 24 we'll start using GitHub Copilot interaction data for AI model training unless you opt out. Review this update and manage your preferences in your GitHub account settings.
+Go
+Create go.yml #1
+All jobs
+Run details
+Workflow file for this run
+.github/workflows/go.yml at 1872639
 # This workflow will build a golang project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
 
@@ -26,3 +47,15 @@ jobs:
 
     - name: Test
       run: go test -v ./...
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
